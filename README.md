@@ -19,6 +19,9 @@ https://storage.googleapis.com/pub-tools-public-publication-data/pdf/035fc972c79
 
 Cryptography Engineering: Design Principles and Practical Applications
 
+### functional programming
+
+Get Programming with Haskell
 
 ### blockchain
 
